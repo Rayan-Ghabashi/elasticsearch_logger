@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"elastic-logging/models"
+	"github.com/rayan-ghabashi/elasticsearch_logger/models"
 	"encoding/json"
 	"io"
 	"log"
