@@ -2,8 +2,8 @@ package internal
 
 import (
 	"bytes"
-	"elastic-logging/config"
-	"elastic-logging/models"
+	"github.com/rayan-ghabashi/elasticsearch_logger/config"
+	"github.com/rayan-ghabashi/elasticsearch_logger/models"
 	"encoding/json"
 	"github.com/elastic/go-elasticsearch/v8/esapi"
 	"log"
