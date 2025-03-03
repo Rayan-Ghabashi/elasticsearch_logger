@@ -1,4 +1,4 @@
-module elastic-logging
+module github.com/rayan-ghabashi/elasticsearch_logger
 
 go 1.23.5
 
